@@ -1,0 +1,92 @@
+[buildPlans.josko]
+family = "Josko"
+spacing = "term"
+serifs = "sans"
+no-cv-ss = true
+export-glyph-names = false
+no-ligation = true
+
+[buildPlans.josko.variants.design]
+capital-a = "straight-serifless"
+capital-g = "toothless-rounded-serifless-hooked"
+capital-i = "short-serifed"
+capital-q = "straight"
+capital-u = "tailed"
+capital-v = "curly"
+capital-x = "curly-serifless"
+capital-y = "curly-serifless"
+capital-z = "curly-serifless"
+a = "double-storey-tailed"
+b = "toothed"
+d = "tailed-serifless"
+e = "rounded"
+f = "flat-hook-tailed"
+g = "single-storey-flat-hook-serifless"
+h = "tailed"
+j = "flat-hook-serifed"
+k = "symmetric-touching-bottom-right-serifed"
+l = "serifed-flat-tailed"
+m = "tailed"
+n = "tailed"
+r = "corner-hooked"
+s = "serifless"
+t = "flat-hook"
+u = "tailed"
+v = "cursive"
+w = "cursive"
+x = "curly-serifless"
+y = "cursive-flat-hook"
+z = "curly-serifless"
+eszet = "sulzbacher-descending"
+cyrl-capital-ze = "bilateral-serifed"
+one = "no-base"
+three = "flat-top"
+four = "closed"
+paren = "flat-arc"
+brace = "curly-flat-boundary"
+ampersand = "upper-open"
+at = "short"
+question = "corner-flat-hooked"
+
+[buildPlans.josko.variants.italic]
+z = "cursive"
+
+[buildPlans.josko.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.josko.weights.book]
+shape = 450
+menu = 450
+css = 450
+
+[buildPlans.josko.weights.medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.josko.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.josko.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.josko.weights.extrabold]
+shape = 800
+menu = 800
+css = 800
+
+[buildPlans.josko.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.josko.widths.normal]
+shape = 500
+menu = 5
+css = "normal"

@@ -1,0 +1,33 @@
+[buildPlans.jetka]
+family = "Jetka"
+spacing = "term"
+serifs = "sans"
+no-cv-ss = true
+export-glyph-names = false
+no-ligation = true
+
+[buildPlans.jetka.variants.design]
+capital-g = "toothless-corner-serifless-hooked"
+capital-i = "short-serifed"
+capital-j = "serifed"
+capital-q = "straight"
+f = "flat-hook"
+g = "single-storey-flat-hook-serifless"
+i = "serifed"
+j = "serifed"
+l = "serifed-flat-tailed"
+t = "flat-hook"
+eszet = "longs-s-lig-descending"
+cyrl-capital-ze = "bilateral-serifed"
+one = "no-base-long-top-serif"
+four = "closed"
+asterisk = "penta-high"
+brace = "curly"
+ampersand = "closed"
+at = "short"
+question = "smooth"
+
+[buildPlans.jetka.widths.normal]
+shape = 500
+menu = 5
+css = "normal"
