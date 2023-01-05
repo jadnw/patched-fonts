@@ -6,26 +6,29 @@ no-cv-ss = true
 export-glyph-names = false
 no-ligation = true
 
+[buildPlans.jetka.variants]
+inherits = "ss20"
+
 [buildPlans.jetka.variants.design]
-capital-g = "toothless-corner-serifless-hooked"
+capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
-capital-j = "serifed"
 capital-q = "straight"
-f = "flat-hook"
 g = "single-storey-flat-hook-serifless"
-i = "serifed"
-j = "serifed"
-l = "serifed-flat-tailed"
-t = "flat-hook"
+l = "tailed-serifed"
 eszet = "longs-s-lig-descending"
 cyrl-capital-ze = "bilateral-serifed"
-one = "no-base-long-top-serif"
+one = "no-base"
 four = "closed"
-asterisk = "penta-high"
-brace = "curly"
-ampersand = "closed"
+six = "closed-contour"
+seven = "curly-serifless"
+nine = "closed-contour"
+paren = "normal"
+ampersand = "upper-open"
 at = "short"
-question = "smooth"
+question = "corner-flat-hooked"
+
+[buildPlans.jetka.variants.italic]
+h = "tailed"
 
 [buildPlans.jetka.widths.normal]
 shape = 500
